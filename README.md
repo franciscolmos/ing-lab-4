@@ -9,6 +9,8 @@
     ![](assets/paso2.png "Creacion del repositorio local")
 
 * Agregar un archivo Readme.md, que contenga tu nombre y un link a tu CV. Tu cv será otro archivo en el mismo formato, en la misma carpeta.
+    * [Readme.md](https://github.com/franciscolmos/TP1-Sistemas-de-control-de-versiones#francisco-augusto-olmos-bossa)
+    * [Mi Curriculum Vitae](https://github.com/franciscolmos/TP1-Sistemas-de-control-de-versiones/blob/master/CV.md#francisco-augusto-olmos-bossa)
 * Crear los commits de cada caso y proveer mensajes descriptivos.
 
     ![](assets/punto2.png "se crean y agregan archivos al repo local, se commitea")
